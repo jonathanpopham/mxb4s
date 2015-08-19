@@ -1,0 +1,35 @@
+{
+  "name": "mxb4s",
+  "version": "0.0.1",
+  "authors": [
+    "jonathanpopham <jonathan.popham@gmail.com>"
+  ],
+  "description": "Designed around rider feedback, mxb4s provides an interface where users can buy motocross bikes, sell motocross bikes, or trade motocross bikes",
+  "main": "app.js",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "mx",
+    "motocross",
+    "bikes",
+    "buy",
+    "sell",
+    "trade",
+    "instagram",
+    "motorris",
+    "mxb4s",
+    "mxbikes4sale"
+  ],
+  "license": "apache-2.0",
+  "homepage": "http://www.mxbikes4sale.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
